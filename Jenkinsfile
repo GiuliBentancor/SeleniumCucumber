@@ -3,7 +3,7 @@ pipeline{
   agent any 
   //Que herramientas vamos a estar instalando al principio
   tools{
-      gradle "Gradle"
+      gradle "gradle"
   }
   
   stages{
